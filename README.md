@@ -1,2 +1,2 @@
 # Weather-App
-link: https://zhenhua-yelpcamp.herokuapp.com
+link: https://zhenhua-weatherapp.herokuapp.com
